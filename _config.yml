@@ -112,8 +112,8 @@ author:
   location         : "Southampton, UK"
   email            : "entreelearner@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
       # url: mailto:entreelearner@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
