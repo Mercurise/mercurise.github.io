@@ -108,7 +108,6 @@ analytics:
 author:
   name             : "Yingwei Zhou"
   avatar           : "/images/avartar.jpg"
-  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm currently a final year MPhil. Student working on Deep Learning based Object Detection researches at the University of Southampton."
   location         : "Southampton, UK"
   email            : "entreelearner@gmail.com"
