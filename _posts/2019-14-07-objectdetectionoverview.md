@@ -54,7 +54,7 @@ Here is an image:
 
 
 Here is another using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/object-detection/temp2.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
 
 Here are some math:
 $$z=x+y$$
