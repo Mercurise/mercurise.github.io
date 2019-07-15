@@ -7,3 +7,4 @@ header:
     overlay_image: "/images/mlpostheader.jpg"
 
 --- 
+{% include base_path %}
