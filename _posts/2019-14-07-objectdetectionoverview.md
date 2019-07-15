@@ -5,7 +5,7 @@ tags: [Machine Learning, Deep Learning, Computer Vision, Object Detection, Data 
 
 
 header:
-    image: "/images/object-detection/temp.png"
+    overlay_image: "/images/object-detection/temp.png"
 excerpt: "Deep Learning, Object Detection, StomaRCNN"
 mathjax: "true"
 ---
@@ -53,9 +53,9 @@ Here is an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/object-detection/temp2.png" alt="temp images of object detection">
 
 
-Here is another using Kramdown:
+<!-- Here is another using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/object-detection/temp2.png)
-
+ -->
 Here are some math:
 $$z=x+y$$
 
