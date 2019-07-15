@@ -2,6 +2,8 @@
 title: "Machine Learning Project: Object Detection"
 date: 2019-07-14
 tags: [Machine Learning, Deep Learning, Computer Vision, Object Detection, Data Science, Neural Network]
+categories: [Object Detection, Computer Vision]
+
 header:
     image: "/images/object-detection/temp.png"
 excerpt: "Deep Learning, Object Detection, StomaRCNN"
