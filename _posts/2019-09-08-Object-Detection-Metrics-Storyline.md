@@ -1,5 +1,5 @@
 ---
-title: "# The Path to Object Detection (Step One): The Storyline of Evaluation Metrics"
+title: "The Path to Object Detection (Step One): The Storyline of Evaluation Metrics"
 date: 2019-08-09
 tags: [Computer Vision, Object Detection, Deep Learning]
 
