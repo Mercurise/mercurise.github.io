@@ -5,7 +5,7 @@ tags: [Computer Vision, Object Detection, Deep Learning]
 
 
 header:
-    overlay_image: "/images/object-detection/bgfort.JPG"
+    overlay_image: "/images/object-detection/bgfort_cropped.jpg"
 excerpt: "The Storyline of Evaluation Metrics"
 mathjax: "true"
 ---
