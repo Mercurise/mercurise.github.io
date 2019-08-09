@@ -5,12 +5,11 @@ tags: [Computer Vision, Object Detection, Deep Learning]
 
 
 header:
-    overlay_image: "/images/object-detection/Graffiti.JPG"
+    overlay_image: "/images/object-detection/goose.jpg"
 excerpt: "The Storyline of Evaluation Metrics"
 mathjax: "true"
 ---
 
-# The Path to Object Detection (Step One): The Storyline of Evaluation Metrics
 
 # Object Detection: where and what
 
